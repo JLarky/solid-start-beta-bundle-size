@@ -10,6 +10,6 @@ export default defineConfig({
 	}),
 	integrations: [start({
 		islands: true,
-		islandsRouter: false
+		islandsRouter: true
 	})]
 });
